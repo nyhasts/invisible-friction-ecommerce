@@ -1,8 +1,10 @@
-#  Invisible Friction: Decision Analytics in E-commerce
-By focusing on decision quality and cognitive friction instead of traditional conversion metrics, this project examines the reasons why highly engaged users give up on online purchases.
+## Invisible Friction in E-Commerce (Power BI Project)
 
-This analysis models each purchase attempt as a decision moment, a time-based sequence of micro-behaviors like option changes, backtracking, hesitation duration, and confusion signals, instead of treating abandonment as a straightforward funnel drop-off.
+I rebuilt an end-to-end analytics project analyzing “invisible friction” in e-commerce decisions.
 
-In order to measure decision difficulty and spot patterns of excessive hesitation that precede abandonment, even among users with strong purchase intent, the project presents a novel Cognitive Load Score.
+Using Python, I generated a richer decision- and event-level dataset, engineered behavioral features (hesitation, engagement, cognitive load), and created a 3-page Power BI dashboard to surface how cognitive friction relates to abandonment.
 
-This project seeks to identify invisible friction in digital shopping experiences and show how improved decision design, rather than just increased traffic, can lead to better results by combining behavioral event modeling, synthetic decision data, and exploratory analytics.
+**Key takeaways:**
+- Higher cognitive load is associated with higher abandonment  
+- Abandoned users tend to hesitate longer before exiting  
+- Specific high-risk decision moments can be identified and prioritized for UX improvement  
