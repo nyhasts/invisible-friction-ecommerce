@@ -17,3 +17,8 @@ Download the dashboard here:
 To view it:
 1. Download the file  
 2. Open it in Power BI Desktop  
+
+## Live Power BI Dashboard
+
+View the interactive dashboard here:
+https://app.powerbi.com/links/dafILBXSl9?ctid=29bebd42-f1ff-4c3d-9688-067e3460dc1f&pbi_source=linkShare
